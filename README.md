@@ -10,7 +10,7 @@ Objective :
    (ii) Count of slope in Intermediate's range.
    (iii) Count of slope in Difficult's range.
 
-4.Total of Snow cannons per country.
+   4.Total of Snow cannons per country.
 
 5. Highest & Lowest point in all over world.
 
