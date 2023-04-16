@@ -1,4 +1,4 @@
-Resorts Analysis using Python
+_**Resorts Analysis using Python**_
 
 This Resort Analysis project is based on Python. I have done analyis on world wide resorts that will help the Consumer to plan there skiing trip in differrent countries based on there choice ,budget, planning & location. 
 
@@ -24,7 +24,7 @@ _**Objective :**_
 
    (iii) Count of slope in Difficult's range.
 
-4.Total of Snow cannons per country.
+4. Total of Snow cannons per country.
 
 5. Highest & Lowest point in all over world.
 
