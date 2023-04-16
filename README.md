@@ -12,6 +12,21 @@ _**Task:**_
 3.Transform categorical columns into numerical columns.
 
 
+_**Application used:**_
+
+Jupyter notebook
+
+
+_**Programming Language:**_
+
+Python
+
+
+**_Dataset:_**
+
+Resort.csv _(From kaggle)_
+
+
 _**Objective :**_
 
 1. Show which continents having more number of resorts.
