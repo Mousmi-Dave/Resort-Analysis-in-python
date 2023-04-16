@@ -1,7 +1,6 @@
 _**Resorts Analysis using Python**_
 
-This Resort Analysis project is based on Python. Analyis is based on worldwide resorts that will help the Consumer to plan their skiing trip in different countries according to once choice ,budget, planning & location.
-
+The Resort Analysis project in Python aimed to provide a comprehensive analysis of worldwide resorts for consumers to plan their skiing trips based on their preferences, budget, planning, and location. The following tasks were performed in this project:
 
 _**Task:**_
 
