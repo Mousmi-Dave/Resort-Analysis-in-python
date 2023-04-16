@@ -9,7 +9,7 @@ _**Task:**_
 
 2. Convert the datatypes into suitable format.
 
-3.Transform categorical columns into numerical columns.
+3. Transform categorical columns into numerical columns.
 
 
 _**Application used:**_
@@ -47,4 +47,4 @@ _**Objective :**_
 
 7. Show the list of Resort which is not Children Friendly.
 
-8. Which Country is having both Night Park & Summer Park.
+8. Resort name which is having both Night Park & Summer Park.
